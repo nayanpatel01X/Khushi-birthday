@@ -1,0 +1,12 @@
+{
+  "name": "happy-birthday-khushi",
+  "version": "1.0.0",
+  "description": "Happy Birthday Khushi Celebration Page",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
